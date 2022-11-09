@@ -1,7 +1,7 @@
 
 # Hi, my name is **Jacek Mońka**
 
-This is my portfolio
+Here is some of my projects and test cases.
 
 ## My tech stack:
 
