@@ -1,0 +1,15 @@
+﻿  Blackjack - Learning Algorithm.cpp
+F:\Portfolio\Projects\C++\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm.cpp(40,17): warning C4244: "inicjowanie": konwersja z "_Rep" do "number", możliwa utrata danych
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+F:\Portfolio\Projects\C++\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm.cpp(152,42): warning C4267: "inicjowanie": konwersja z "size_t" do "number", możliwa utrata danych
+F:\Portfolio\Projects\C++\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm.cpp(153,39): warning C4267: "inicjowanie": konwersja z "size_t" do "number", możliwa utrata danych
+F:\Portfolio\Projects\C++\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm.cpp(175,38): warning C4267: "=": konwersja z "size_t" do "number", możliwa utrata danych
+F:\Portfolio\Projects\C++\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm.cpp(176,35): warning C4267: "=": konwersja z "size_t" do "number", możliwa utrata danych
+F:\Portfolio\Projects\C++\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm.cpp(240,46): warning C4267: "inicjowanie": konwersja z "size_t" do "number", możliwa utrata danych
+F:\Portfolio\Projects\C++\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm.cpp(241,43): warning C4267: "inicjowanie": konwersja z "size_t" do "number", możliwa utrata danych
+F:\Portfolio\Projects\C++\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm.cpp(277,42): warning C4267: "=": konwersja z "size_t" do "number", możliwa utrata danych
+F:\Portfolio\Projects\C++\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm\Blackjack - Learning Algorithm.cpp(278,39): warning C4267: "=": konwersja z "size_t" do "number", możliwa utrata danych
+  Blackjack - Learning Algorithm.vcxproj -> F:\Portfolio\Projects\C++\Blackjack - Learning Algorithm\x64\Debug\Blackjack - Learning Algorithm.exe
