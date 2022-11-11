@@ -55,7 +55,7 @@ try:
 
     submitButton.click()
     
-    main = WebDriverWait(driver, 100).until(EC.element_to_be_clickable((By.ID, "closeLargeModal")))
+    #main = WebDriverWait(driver, 10).until(EC.element_to_be_clickable((By.ID, "closeLargeModal")))
     time.sleep(0.2)
 
     if driver.find_elements(By.ID, "closeLargeModal"):
