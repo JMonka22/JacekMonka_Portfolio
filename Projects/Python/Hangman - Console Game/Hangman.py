@@ -28,14 +28,14 @@ class Hangman():
         self.guessed_letters = []
 
     def get_user_input(self):
-        user_input = input("Input letter you'd like to reveal!")[0].upper()
-        while user_input in self.guessed_letters:
+        user_input = input("Input letter you'd like to reveal!")[0].upper()         #take first letter of user's input
+        while user_input in self.guessed_letters:                                   #get input again if user guessed letter more than once
             print('You already guesed that letter!')
             user_input = input('')[0].upper()
         self.guessed_letters.append(user_input)
         return user_input
     
-    def check_letter(self, user_input):
+    def check_letter(self, user_input):                                             #check if letter is in generated word
         if user_input in self.chosen_word:
             return len(re.findall(user_input, self.chosen_word))
         return False
