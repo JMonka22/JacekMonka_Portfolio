@@ -7,7 +7,6 @@ Here is some of my projects and test cases that I made in my free time.
 
 * Python
 * Selenium
-* C++
 * HTML/CSS
 * WordPress
 
